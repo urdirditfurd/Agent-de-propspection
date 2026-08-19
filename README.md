@@ -1,5 +1,3 @@
-# Agent-de-propspection
-
 # Agent de prospection — Présentation
 
 ## En une phrase
